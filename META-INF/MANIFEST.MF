@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: joehni
+Build-Jdk: 1.8.0_312
+Specification-Title: XStream Core
+Specification-Vendor: XStream
+Implementation-Title: XStream Core
+Implementation-Version: 1.4.20
+Implementation-Vendor-Id: com.thoughtworks.xstream
+Implementation-Vendor: XStream
+Bundle-License: BSD-3-Clause
+Bundle-ManifestVersion: 2
+Bundle-Name: XStream Core Sources
+Bundle-SymbolicName: xstream.sources
+Bundle-Vendor: XStream Sources
+Bundle-Version: 1.4.20
+Eclipse-SourceBundle: xstream;version=1.4.20
+Specification-Version: 1.4
+X-Build-Os: Linux
+X-Build-Time: 2022-12-23T23:21:05Z
+X-Builder: Maven 3.8.6
+X-Compile-Source: 1.4
+X-Compile-Target: 1.4
+
